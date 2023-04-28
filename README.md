@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning Java
 - 👯 I’m looking to collaborate on everything I can
 - 📫 How to reach me: @amantedabeleza on twitter, @nominalism here and leonardo_r_cavalcante on instagram
-
+-  I speak portuguese, english and german fluently
