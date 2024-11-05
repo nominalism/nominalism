@@ -1,5 +1,5 @@
 - 👋 Hi there, I'm Leonardo Cavalcante 
-- 🔭 I’m currently working on some personal projects 
+- 👷 I'm currently working on a personal project involving Natural Language Processing (NLP)
 - 👯 I’m looking to collaborate in everything I can
 - 📫 How to reach me: @nominalism here and leonardo_r_cavalcante on instagram
 - 🗣️ I speak portuguese 🇧🇷, english 🇺🇸 and german 🇩🇪 fluently
